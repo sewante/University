@@ -1,0 +1,112 @@
+C:\Users\RMwesigye\source\repos\UniversityService\UniversityService\bin\UniversityService.dll.config
+C:\Users\RMwesigye\source\repos\UniversityService\UniversityService\bin\UniversityService.dll
+C:\Users\RMwesigye\source\repos\UniversityService\UniversityService\bin\UniversityService.pdb
+C:\Users\RMwesigye\source\repos\UniversityService\UniversityService\bin\roslyn\csc.exe
+C:\Users\RMwesigye\source\repos\UniversityService\UniversityService\bin\roslyn\csc.exe.config
+C:\Users\RMwesigye\source\repos\UniversityService\UniversityService\bin\roslyn\csc.rsp
+C:\Users\RMwesigye\source\repos\UniversityService\UniversityService\bin\roslyn\csi.exe
+C:\Users\RMwesigye\source\repos\UniversityService\UniversityService\bin\roslyn\csi.exe.config
+C:\Users\RMwesigye\source\repos\UniversityService\UniversityService\bin\roslyn\csi.rsp
+C:\Users\RMwesigye\source\repos\UniversityService\UniversityService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\RMwesigye\source\repos\UniversityService\UniversityService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\RMwesigye\source\repos\UniversityService\UniversityService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\RMwesigye\source\repos\UniversityService\UniversityService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\RMwesigye\source\repos\UniversityService\UniversityService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\RMwesigye\source\repos\UniversityService\UniversityService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\RMwesigye\source\repos\UniversityService\UniversityService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\RMwesigye\source\repos\UniversityService\UniversityService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\RMwesigye\source\repos\UniversityService\UniversityService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\RMwesigye\source\repos\UniversityService\UniversityService\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\RMwesigye\source\repos\UniversityService\UniversityService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\RMwesigye\source\repos\UniversityService\UniversityService\bin\roslyn\System.AppContext.dll
+C:\Users\RMwesigye\source\repos\UniversityService\UniversityService\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\RMwesigye\source\repos\UniversityService\UniversityService\bin\roslyn\System.Console.dll
+C:\Users\RMwesigye\source\repos\UniversityService\UniversityService\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\RMwesigye\source\repos\UniversityService\UniversityService\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\RMwesigye\source\repos\UniversityService\UniversityService\bin\roslyn\System.IO.Compression.dll
+C:\Users\RMwesigye\source\repos\UniversityService\UniversityService\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\RMwesigye\source\repos\UniversityService\UniversityService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\RMwesigye\source\repos\UniversityService\UniversityService\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\RMwesigye\source\repos\UniversityService\UniversityService\bin\roslyn\System.IO.Pipes.dll
+C:\Users\RMwesigye\source\repos\UniversityService\UniversityService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\RMwesigye\source\repos\UniversityService\UniversityService\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\RMwesigye\source\repos\UniversityService\UniversityService\bin\roslyn\System.Security.Claims.dll
+C:\Users\RMwesigye\source\repos\UniversityService\UniversityService\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\RMwesigye\source\repos\UniversityService\UniversityService\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\RMwesigye\source\repos\UniversityService\UniversityService\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\RMwesigye\source\repos\UniversityService\UniversityService\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\RMwesigye\source\repos\UniversityService\UniversityService\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\RMwesigye\source\repos\UniversityService\UniversityService\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\RMwesigye\source\repos\UniversityService\UniversityService\bin\roslyn\System.ValueTuple.dll
+C:\Users\RMwesigye\source\repos\UniversityService\UniversityService\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\RMwesigye\source\repos\UniversityService\UniversityService\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\RMwesigye\source\repos\UniversityService\UniversityService\bin\roslyn\System.Xml.XPath.dll
+C:\Users\RMwesigye\source\repos\UniversityService\UniversityService\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\RMwesigye\source\repos\UniversityService\UniversityService\bin\roslyn\vbc.exe
+C:\Users\RMwesigye\source\repos\UniversityService\UniversityService\bin\roslyn\vbc.exe.config
+C:\Users\RMwesigye\source\repos\UniversityService\UniversityService\bin\roslyn\vbc.rsp
+C:\Users\RMwesigye\source\repos\UniversityService\UniversityService\bin\roslyn\VBCSCompiler.exe
+C:\Users\RMwesigye\source\repos\UniversityService\UniversityService\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\RMwesigye\source\repos\UniversityService\UniversityService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\RMwesigye\source\repos\UniversityService\UniversityService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\RMwesigye\source\repos\UniversityService\UniversityService\obj\Debug\UniversityService.csprojAssemblyReference.cache
+C:\Users\RMwesigye\source\repos\UniversityService\UniversityService\obj\Debug\UniversityService.csproj.CoreCompileInputs.cache
+C:\Users\RMwesigye\source\repos\UniversityService\UniversityService\obj\Debug\UniversityService.csproj.CopyComplete
+C:\Users\RMwesigye\source\repos\UniversityService\UniversityService\obj\Debug\UniversityService.dll
+C:\Users\RMwesigye\source\repos\UniversityService\UniversityService\obj\Debug\UniversityService.pdb
+C:\Users\RMwesigye\Documents\Visual Studio 2017\Projects\UniversityService\UniversityService\bin\UniversityService.dll.config
+C:\Users\RMwesigye\Documents\Visual Studio 2017\Projects\UniversityService\UniversityService\bin\UniversityService.dll
+C:\Users\RMwesigye\Documents\Visual Studio 2017\Projects\UniversityService\UniversityService\bin\UniversityService.pdb
+C:\Users\RMwesigye\Documents\Visual Studio 2017\Projects\UniversityService\UniversityService\bin\roslyn\csc.exe
+C:\Users\RMwesigye\Documents\Visual Studio 2017\Projects\UniversityService\UniversityService\bin\roslyn\csc.exe.config
+C:\Users\RMwesigye\Documents\Visual Studio 2017\Projects\UniversityService\UniversityService\bin\roslyn\csc.rsp
+C:\Users\RMwesigye\Documents\Visual Studio 2017\Projects\UniversityService\UniversityService\bin\roslyn\csi.exe
+C:\Users\RMwesigye\Documents\Visual Studio 2017\Projects\UniversityService\UniversityService\bin\roslyn\csi.exe.config
+C:\Users\RMwesigye\Documents\Visual Studio 2017\Projects\UniversityService\UniversityService\bin\roslyn\csi.rsp
+C:\Users\RMwesigye\Documents\Visual Studio 2017\Projects\UniversityService\UniversityService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\RMwesigye\Documents\Visual Studio 2017\Projects\UniversityService\UniversityService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\RMwesigye\Documents\Visual Studio 2017\Projects\UniversityService\UniversityService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\RMwesigye\Documents\Visual Studio 2017\Projects\UniversityService\UniversityService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\RMwesigye\Documents\Visual Studio 2017\Projects\UniversityService\UniversityService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\RMwesigye\Documents\Visual Studio 2017\Projects\UniversityService\UniversityService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\RMwesigye\Documents\Visual Studio 2017\Projects\UniversityService\UniversityService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\RMwesigye\Documents\Visual Studio 2017\Projects\UniversityService\UniversityService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\RMwesigye\Documents\Visual Studio 2017\Projects\UniversityService\UniversityService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\RMwesigye\Documents\Visual Studio 2017\Projects\UniversityService\UniversityService\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\RMwesigye\Documents\Visual Studio 2017\Projects\UniversityService\UniversityService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\RMwesigye\Documents\Visual Studio 2017\Projects\UniversityService\UniversityService\bin\roslyn\System.AppContext.dll
+C:\Users\RMwesigye\Documents\Visual Studio 2017\Projects\UniversityService\UniversityService\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\RMwesigye\Documents\Visual Studio 2017\Projects\UniversityService\UniversityService\bin\roslyn\System.Console.dll
+C:\Users\RMwesigye\Documents\Visual Studio 2017\Projects\UniversityService\UniversityService\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\RMwesigye\Documents\Visual Studio 2017\Projects\UniversityService\UniversityService\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\RMwesigye\Documents\Visual Studio 2017\Projects\UniversityService\UniversityService\bin\roslyn\System.IO.Compression.dll
+C:\Users\RMwesigye\Documents\Visual Studio 2017\Projects\UniversityService\UniversityService\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\RMwesigye\Documents\Visual Studio 2017\Projects\UniversityService\UniversityService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\RMwesigye\Documents\Visual Studio 2017\Projects\UniversityService\UniversityService\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\RMwesigye\Documents\Visual Studio 2017\Projects\UniversityService\UniversityService\bin\roslyn\System.IO.Pipes.dll
+C:\Users\RMwesigye\Documents\Visual Studio 2017\Projects\UniversityService\UniversityService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\RMwesigye\Documents\Visual Studio 2017\Projects\UniversityService\UniversityService\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\RMwesigye\Documents\Visual Studio 2017\Projects\UniversityService\UniversityService\bin\roslyn\System.Security.Claims.dll
+C:\Users\RMwesigye\Documents\Visual Studio 2017\Projects\UniversityService\UniversityService\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\RMwesigye\Documents\Visual Studio 2017\Projects\UniversityService\UniversityService\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\RMwesigye\Documents\Visual Studio 2017\Projects\UniversityService\UniversityService\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\RMwesigye\Documents\Visual Studio 2017\Projects\UniversityService\UniversityService\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\RMwesigye\Documents\Visual Studio 2017\Projects\UniversityService\UniversityService\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\RMwesigye\Documents\Visual Studio 2017\Projects\UniversityService\UniversityService\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\RMwesigye\Documents\Visual Studio 2017\Projects\UniversityService\UniversityService\bin\roslyn\System.ValueTuple.dll
+C:\Users\RMwesigye\Documents\Visual Studio 2017\Projects\UniversityService\UniversityService\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\RMwesigye\Documents\Visual Studio 2017\Projects\UniversityService\UniversityService\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\RMwesigye\Documents\Visual Studio 2017\Projects\UniversityService\UniversityService\bin\roslyn\System.Xml.XPath.dll
+C:\Users\RMwesigye\Documents\Visual Studio 2017\Projects\UniversityService\UniversityService\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\RMwesigye\Documents\Visual Studio 2017\Projects\UniversityService\UniversityService\bin\roslyn\vbc.exe
+C:\Users\RMwesigye\Documents\Visual Studio 2017\Projects\UniversityService\UniversityService\bin\roslyn\vbc.exe.config
+C:\Users\RMwesigye\Documents\Visual Studio 2017\Projects\UniversityService\UniversityService\bin\roslyn\vbc.rsp
+C:\Users\RMwesigye\Documents\Visual Studio 2017\Projects\UniversityService\UniversityService\bin\roslyn\VBCSCompiler.exe
+C:\Users\RMwesigye\Documents\Visual Studio 2017\Projects\UniversityService\UniversityService\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\RMwesigye\Documents\Visual Studio 2017\Projects\UniversityService\UniversityService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\RMwesigye\Documents\Visual Studio 2017\Projects\UniversityService\UniversityService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\RMwesigye\Documents\Visual Studio 2017\Projects\UniversityService\UniversityService\obj\Debug\UniversityService.csprojAssemblyReference.cache
+C:\Users\RMwesigye\Documents\Visual Studio 2017\Projects\UniversityService\UniversityService\obj\Debug\UniversityService.csproj.CoreCompileInputs.cache
+C:\Users\RMwesigye\Documents\Visual Studio 2017\Projects\UniversityService\UniversityService\obj\Debug\UniversityService.csproj.CopyComplete
+C:\Users\RMwesigye\Documents\Visual Studio 2017\Projects\UniversityService\UniversityService\obj\Debug\UniversityService.dll
+C:\Users\RMwesigye\Documents\Visual Studio 2017\Projects\UniversityService\UniversityService\obj\Debug\UniversityService.pdb
